@@ -3,7 +3,8 @@ name = "solid-guide"
 version = "0.0.1"
 description = "pyproject.toml file for an existing project."
 authors = [
-    "Jan Iwaszkiewicz <jiwaszkiewicz6@gmail.com>"
+    "Jan Iwaszkiewicz <jiwaszkiewicz6@gmail.com>",
+    "Piotr Wasilewski <piotr.wasilewski420@gmail.com>"
 ]
 readme = "README.md"
 python = "^3.8"
