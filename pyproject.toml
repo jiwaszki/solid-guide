@@ -7,7 +7,8 @@ authors = [
     "Mateusz Krzywicki <mateusz.krz314@gmail.com>",
     "Bartosz Brodowski <bar.brodowski@gmail.com>",
     "Jack Haynes <jackie2018@protonmail.com>",
-    "Michal Witkowski <michal.witkowski1234@interia.pl>"
+    "Michal Witkowski <michal.witkowski1234@interia.pl>",
+    "Miłosz Baca <mbacaa@icloud.com>"
 ]
 readme = "README.md"
 python = "^3.8"
