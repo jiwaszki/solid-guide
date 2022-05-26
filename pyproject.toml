@@ -4,6 +4,7 @@ version = "0.0.1"
 description = "pyproject.toml file for an existing project."
 authors = [
     "Jan Iwaszkiewicz <jiwaszkiewicz6@gmail.com>",
+    "Jack Haynes <jackie2018@protonmail.com>",
     "Miłosz Baca <mbacaa@icloud.com>"
 ]
 readme = "README.md"
