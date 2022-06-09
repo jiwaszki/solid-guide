@@ -27,7 +27,7 @@ def main() -> int:
 
     myFuncFactory=[]
     myFuncFactory.append([funcs.MyAdd.calculate(args.a,args.b),"Add"])
-    myFuncFactory.append([funcs.MyDivide.calculate(args.a,args.b),"Subtract"])
+    myFuncFactory.append([funcs.MySubtract.calculate(args.a,args.b),"Subtract"])
     myFuncFactory.append([funcs.MyMultiply.calculate(args.a,args.b),"Multiply"])
     myFuncFactory.append([funcs.MyDivide.calculate(args.a,args.b),"Divide"])
     for i in range(0, len(myFuncFactory)):
